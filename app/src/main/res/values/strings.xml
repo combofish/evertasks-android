@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EverTasks</string>
+    <string name="have_to">Have To</string>
+    <string name="want_to">Want To</string>
+    <string name="sum">Sum:</string>
+</resources>
