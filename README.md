@@ -5,7 +5,7 @@ EverTasks 是一款任务管理工具，主界面分左右两侧，左侧可以�
 
 ## 主界面
 
-<img src="https://raw.githubusercontent.com/combofish/evertasks-android/master/main-ui.webp" title="main-ui" width=100%>
+<img src="https://raw.githubusercontent.com/combofish/evertasks-android/master/main-ui.webp" title="main-ui" width=30%>
 
 ## License
 
