@@ -10,7 +10,7 @@ EverTasks Android App.
 
 ## 主界面
 
-<img src="https://raw.githubusercontent.com/combofish/evertasks-android/master/main-ui.webp" title="main-ui" width=40%>
+<img src="https://raw.githubusercontent.com/combofish/evertasks-android/master/main-ui.png" title="main-ui" width=40%>
 
 ## License
 
