@@ -1,4 +1,4 @@
-package com.example.evertasks
+package com.cmbofish.evertasks
 
 import org.junit.Test
 
